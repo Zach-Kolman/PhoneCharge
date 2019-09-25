@@ -599,6 +599,7 @@ Transform:
   - {fileID: 6092763150689722404}
   - {fileID: 8473269229228709159}
   - {fileID: 6716674140237006755}
+  - {fileID: 2037139998548073351}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -684,4 +685,84 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5825229171708837066, guid: eb2680656a0f5734ea6981103d1446d0,
     type: 3}
   m_PrefabInstance: {fileID: 719635501324541038}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6431092746532630685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5514126002616915980}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_Name
+      value: PhoneChargeScreen
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -29.184
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.3994253
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.84
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6178299343227500699, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fbb26186a5ceac5448dfcb51fa111d61, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c93987fe2dd6c744b90fecc2e1acdfcb, type: 3}
+--- !u!4 &2037139998548073351 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4216859302048453862, guid: c93987fe2dd6c744b90fecc2e1acdfcb,
+    type: 3}
+  m_PrefabInstance: {fileID: 6431092746532630685}
   m_PrefabAsset: {fileID: 0}
